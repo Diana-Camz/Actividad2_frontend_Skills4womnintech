@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  font-size: 4rem;
+}
+h3{
+  text-align: center;
+  font-size: 2rem;
+}
+p{
+  text-align: center;
+}
+/*.operacion{
+
+}*/
+.operacion input,
+.operacion button{
+  display: block;
+  margin: 6px auto;
+}
+.script{
+  text-align: center;
+  font-size: 50px;
+}
